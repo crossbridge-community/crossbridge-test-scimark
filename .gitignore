@@ -1,0 +1,6 @@
+*.swf
+*.swc
+*.abc
+*.bc
+*.o
+tests/filestores/
